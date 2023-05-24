@@ -90,7 +90,7 @@ You have been contracted by the University of Denver to write a program that mod
 1. Create a `Gradebook` class. Each gradebook has an `instructor`, as well as a way to read that data.
 2. Each gradebook has `courses`, as well as a way to read that data.
 3. A gradebook can `list_all_students` in its courses.
-4. A gradebook can `students_below(threwhold)` to return a list of students whose grades are below a given threshold.
+4. A gradebook can `students_below(threshold)` to return a list of students whose grades are below a given threshold.
 
 Method Name                 | Return Value (type)
 -----------                 | -------------------
